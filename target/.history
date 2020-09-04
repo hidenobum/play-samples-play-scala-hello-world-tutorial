@@ -1,0 +1,9 @@
+run
+/.sbt run
+/.sbt
+run
+/sbt
+>git init
+git init
+run
+exit
